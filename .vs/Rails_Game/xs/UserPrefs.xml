@@ -1,9 +1,9 @@
 ﻿<Properties StartupConfiguration="{A54BD67E-EE52-02CB-4311-A9AC440FEC7C}|">
-  <MonoDevelop.Ide.Workbench ActiveDocument="../3_Project_Boost/Assets/Rocket.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Player.cs">
     <Files>
       <File FileName="Assets/MusicPlayer.cs" Line="6" Column="25" />
       <File FileName="../3_Project_Boost/Assets/Rocket.cs" Line="13" Column="25" />
-      <File FileName="Assets/Player.cs" Line="25" Column="6" />
+      <File FileName="Assets/Player.cs" Line="41" Column="99" />
       <File FileName="../3_Project_Boost/Assets/Oscillator.cs" Line="18" Column="42" />
     </Files>
   </MonoDevelop.Ide.Workbench>

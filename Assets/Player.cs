@@ -38,6 +38,6 @@ public class Player : MonoBehaviour {
         float yThrow = CrossPlatformInputManager.GetAxis("Vertical");
         float newX = transform.localPosition.x + xThrow * xSpeed * Time.deltaTime;
         float newY = transform.localPosition.y + yThrow * ySpeed * Time.deltaTime;
-        transform.localPosition = new Vector3(Mathf.Clamp(newX, -3f, 3f), Mathf.Clamp(newY, -1.5f, 1.5f), startingPos.z);
+        transform.localPosition = new Vector3(Mathf.Clamp(newX, -5.8f, 5.8f), Mathf.Clamp(newY, -3.2f, 3.2f), startingPos.z);
     }
 }
